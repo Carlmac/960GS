@@ -1,6 +1,9 @@
 # 960GS
 一个简单的960栅格系统，帮助你快速建立多至12列的响应式页面
 
+### 在线预览
+[Live Demo](https://carlmac.github.io/960GS/grid.html)
+
 ### 用法
 
 1. 用含有`row`类名的块状元素包裹每行内容
